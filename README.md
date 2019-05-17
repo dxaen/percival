@@ -70,7 +70,7 @@ Copy darknight.patch from /patches/darknight.patch to src directory
 git apply darknight.patch
 ```
 #### Place the model in the Home directory for the browser to load.
-In Browser model coming soon. TODO
+In Browser model coming soon.
 
 #### Run Percival reinforced Chromium, need to pass no-sandbox flag
 ```
